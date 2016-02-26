@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumroman03brevgoog/breviariumroman03brevgoog_0005.png"; bbox 0 0 2442 4617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 223 1975 1117 2056">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 223 1975 1117 2056">
+     <span class='ocr_line' id='line_1_1' title="bbox 223 1975 1117 2056; baseline 0.049 -47"><span class='ocrx_word' id='word_1_1' title='bbox 223 1975 327 2022; x_wconf 75' lang='lat' dir='ltr'><strong>wusns</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 354 1989 387 2030; x_wconf 77' lang='lat' dir='ltr'><strong>u</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 404 1995 590 2045; x_wconf 69' lang='lat' dir='ltr'><strong>moenum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 606 2010 804 2055; x_wconf 72' lang='lat' dir='ltr'><strong>nccmusnco</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 820 2013 993 2056; x_wconf 64' lang='lat' dir='ltr'><strong>messmam</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1003 2014 1117 2055; x_wconf 59' lang='grc' dir='ltr'><strong>κωκυ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 499 2079 848 2133">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 499 2079 848 2133">
+     <span class='ocr_line' id='line_1_2' title="bbox 499 2079 848 2133; baseline 0.037 -18"><span class='ocrx_word' id='word_1_7' title='bbox 499 2079 528 2116; x_wconf 71' lang='lat' dir='ltr'><strong>via</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 537 2082 592 2130; x_wconf 63' lang='lat' dir='ltr'>vulgo</span> <span class='ocrx_word' id='word_1_9' title='bbox 601 2083 652 2125; x_wconf 70' lang='lat' dir='ltr'><strong>dieu</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 662 2087 686 2125; x_wconf 74' lang='lat' dir='ltr'><strong>d·</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 703 2091 784 2133; x_wconf 65' lang='lat' dir='ltr'>sirm.</span> <span class='ocrx_word' id='word_1_12' title='bbox 797 2091 821 2126; x_wconf 78' lang='grc' dir='ltr'><strong>ι·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 833 2103 848 2128; x_wconf 80' lang='grc' dir='ltr'><strong>ι-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1226 4617">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1226 4617">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1226 4617; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1226 4617; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
